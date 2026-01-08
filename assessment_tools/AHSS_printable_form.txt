@@ -1,0 +1,193 @@
+
+================================================================================
+ALGORITHMIC HARM SCREENING SCALE (AHSS)
+Clinical Screening Instrument
+================================================================================
+
+Client ID: _____________________     Date: _____________________
+
+Administered by: _________________   Setting: ___________________
+
+--------------------------------------------------------------------------------
+INSTRUCTIONS
+--------------------------------------------------------------------------------
+Please answer each question based on your experiences over the past 2 years.
+Circle the number that best describes your situation.
+
+================================================================================
+SECTION A: EXPOSURE TO ALGORITHMIC SYSTEMS
+================================================================================
+
+1. In the past 2 years, how many times have you applied for jobs that use online applications or automated screening?
+    [0] None
+    [1] 1-5 times
+    [2] 6-15 times
+    [3] 16-30 times
+    [4] More than 30 times
+
+2. Have you applied for rental housing that required a background check or credit check?
+    [0] No
+    [1] Yes, 1-2 times
+    [2] Yes, 3-5 times
+    [3] Yes, more than 5 times
+
+3. Have you applied for credit cards, loans, or financing in the past 2 years?
+    [0] No
+    [1] Yes, 1-2 times
+    [2] Yes, 3-5 times
+    [3] Yes, more than 5 times
+
+4. Do you have any of the following in your history? (Check all that apply: Criminal record, Eviction, Bankruptcy, Medical debt, Employment termination)
+    [0] None
+    [1] 1 item
+    [2] 2 items
+    [3] 3 items
+    [4] 4-5 items
+
+5. Have you ever been denied healthcare services or had difficulty accessing medical care due to insurance or billing issues?
+    [0] Never
+    [1] Once
+    [2] 2-3 times
+    [3] 4+ times or ongoing
+
+6. Do you have gaps in your employment history of 6 months or more?
+    [0] No
+    [1] Yes, one gap
+    [2] Yes, multiple gaps
+
+7. Have you ever been excluded from a research study, clinical trial, or medical program based on your history?
+    [0] No
+    [1] Yes, once
+    [2] Yes, multiple times
+
+================================================================================
+SECTION B: ADVERSE OUTCOMES
+================================================================================
+
+8. How many job rejections have you received in the past year where you felt qualified for the position?
+    [0] 0-2
+    [1] 3-5
+    [2] 6-10
+    [3] 11-20
+    [4] More than 20
+
+9. Have you been denied housing, had a rental application rejected, or been unable to secure housing?
+    [0] No
+    [1] Yes, once
+    [2] Yes, 2-3 times
+    [3] Yes, 4+ times or currently homeless
+
+10. Have you been denied credit, loans, or financing when you expected to be approved?
+    [0] No
+    [1] Yes, once
+    [2] Yes, 2-3 times
+    [3] Yes, 4+ times
+
+11. Have you experienced increased insurance premiums or denial of coverage that seemed unfair?
+    [0] No
+    [1] Yes, minor increase
+    [2] Yes, significant increase
+    [3] Yes, denied coverage
+
+12. Have you attempted to correct errors in your credit report, background check, or other records?
+    [0] Never needed to
+    [1] Attempted and succeeded
+    [2] Attempted with partial success
+    [3] Attempted and failed
+    [4] Gave up trying
+
+13. Do you feel that your past follows you in ways that prevent you from moving forward?
+    [0] Not at all
+    [1] Somewhat
+    [2] Moderately
+    [3] Very much
+    [4] Completely
+
+================================================================================
+SECTION C: PSYCHOLOGICAL IMPACT
+================================================================================
+
+14. When you receive a rejection, how often do you think 'Why bother trying?'
+    [0] Never
+    [1] Rarely
+    [2] Sometimes
+    [3] Often
+    [4] Always
+
+15. How much shame do you feel about your credit score, background, or employment history?
+    [0] None
+    [1] A little
+    [2] Moderate
+    [3] Significant
+    [4] Overwhelming
+
+16. Do you avoid applying for jobs, housing, or credit because you expect to be rejected?
+    [0] Never
+    [1] Rarely
+    [2] Sometimes
+    [3] Often
+    [4] Always
+
+17. Do you feel that 'the system is rigged' against people like you?
+    [0] Not at all
+    [1] Somewhat
+    [2] Moderately
+    [3] Very much
+    [4] Completely
+
+18. Has dealing with rejections and denials affected your mood, sleep, or daily functioning?
+    [0] Not at all
+    [1] Mildly
+    [2] Moderately
+    [3] Severely
+    [4] Unable to function
+
+================================================================================
+SECTION D: TEMPORAL FACTORS (CRITICAL FOR INTERVENTION TIMING)
+================================================================================
+
+19. When did the adverse event(s) that started your difficulties first occur?
+    [0] Within past 3 months
+    [1] 3-6 months ago
+    [2] 6-12 months ago
+    [3] 1-3 years ago
+    [4] More than 3 years ago
+
+20. Are you currently experiencing any of the following? (Check all: Active job search, Housing search, Credit applications, Legal proceedings related to records)
+    [0] None
+    [1] 1 item
+    [2] 2 items
+    [3] 3 items
+    [4] All 4 items
+
+================================================================================
+SCORING (For Clinician Use)
+================================================================================
+
+Exposure Subscale (Items 1-7):    ___ / 21
+Outcomes Subscale (Items 8-13):   ___ / 24
+Psychological Subscale (14-18):   ___ / 19
+Temporal Subscale (Items 19-20):  ___ / 9
+
+TOTAL SCORE:                      ___ / 70
+
+--------------------------------------------------------------------------------
+INTERPRETATION
+--------------------------------------------------------------------------------
+0-10:   Minimal risk
+11-20:  Low risk - psychoeducation recommended
+21-35:  MODERATE RISK - intervention indicated
+36-50:  HIGH RISK - urgent intervention recommended
+51+:    SEVERE RISK - comprehensive intervention required
+
+Intervention Window (based on Item 19):
+[ ] OPTIMAL (0-3 months): >85% efficacy - ACT NOW
+[ ] URGENT (3-6 months): 60-85% efficacy - time-sensitive
+[ ] LIMITED (6-12 months): 30-60% efficacy - targeted intervention
+[ ] CHRONIC (12+ months): <30% efficacy - harm reduction focus
+
+================================================================================
+Algorithmic Harm Clinical Framework | Nyx Dynamics LLC
+For clinical use only. Not a diagnostic instrument.
+================================================================================
+
